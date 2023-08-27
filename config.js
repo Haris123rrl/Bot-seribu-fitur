@@ -11,18 +11,18 @@ global.apikey = '3d27cc6592c983dd253f642f' // https://api.lolhuman.xyz
 global.rosekey = 'cba86fac49e37d63f9bd4561' // https://api.itsrose.site
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'MyokuBotz-MD'
+global.namabot = 'Botz-MD'
 global.namaowner = 'haris'
 
 //—————「 Setting Owner 」—————//
 global.owner = '6285936162097'
 global.nomerowner = ["6285936162097"]
-global.premium = ['6288216922399']
+global.premium = ['6285936162097']
 
 //—————「 Set Wm 」—————//
-global.packname = 'Myokubotz'
+global.packname = 'botz'
 global.author = 'V1.2'
-global.isLink = 'https://chat.whatsapp.com/CTOLdac0BmFCuIokIxqoIZ'
+global.isLink = 'https://chat.whatsapp.com/Ig5fzfk773h4o4BFvtWSGg'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -43,7 +43,7 @@ global.mess = {
 //—————「 Set Limit 」—————//
 global.limitawal = {
     premium: "Infinity",
-    free: 50,
+    free: 15,
 }
 
 //—————「 Set Image 」—————//
